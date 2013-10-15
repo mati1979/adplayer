@@ -1,0 +1,21 @@
+{
+  "name": "adplayer",
+  "version": "2.0.1",
+  "homepage": "https://github.com/mati1979/adplayer",
+  "authors": [
+    "Mateusz Szczap <mszczap@team.mobile.de>"
+  ],
+  "description": "adplayer",
+  "main": "js/adplayer.js",
+  "keywords": [
+    "adplayer"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
